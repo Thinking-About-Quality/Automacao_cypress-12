@@ -1,0 +1,23 @@
+{
+  "name": "Automacao_cypress-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinking-About-Quality/Automacao_cypress-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinking-About-Quality/Automacao_cypress-12/issues"
+  },
+  "homepage": "https://github.com/Thinking-About-Quality/Automacao_cypress-12#readme",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  }
+}
